@@ -1,0 +1,3 @@
+Name : Vikram Reddy
+Age : 34
+batting : rightHand
