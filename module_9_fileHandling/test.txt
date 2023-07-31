@@ -1,3 +1,3 @@
-Name : Vikram Reddy
-Age : 34
-batting : rightHand
+Hi My name Vikram Reddy
+I am 34 years old
+I am a Freelancer
